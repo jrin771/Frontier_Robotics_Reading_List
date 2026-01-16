@@ -4,7 +4,7 @@ A curated repository of frontier robotics content from Jacob Rintamaki
 ## SemiAnalysis 
 
 
-[Robotics Levels Of Autonomy] (https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
+[Robotics Levels Of Autonomy](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
 
 
 Eric Jang API 
