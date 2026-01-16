@@ -1,7 +1,7 @@
 # Frontier Robotics Reading list
 A curated repository of frontier robotics content from Jacob Rintamaki
 
-## Quadrupeds
+## Quadrupeds (or other cate4gories that are good) 
 
 - [Robotics Levels Of Autonomy](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
 - [2025 BEHAVIOR Challenge Results](https://behavior.stanford.edu/challenge/index.html)
