@@ -1,10 +1,23 @@
 # Frontier Robotics Reading list
 A curated repository of frontier robotics content from Jacob Rintamaki
 
-SemiAnalysis Pump but also topics I 
+## SemiAnalysis 
 
 
+[Robotics Levels Of Autonomy] (https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
 
+
+Eric Jang API 
+
+Citrini robot BOM 
+
+Gen-O 
+
+Dyna RL results 
+
+Twist 2 plus locomanipulation broadly LeCAR lab etc. 
+
+Manipulation Sharun Song, 
 
 
 Speed Stuff 
@@ -48,7 +61,7 @@ Essays (Oliver Hsu, Final Offshoring, Packy McCormick).
 
 
 
-Oliver HSU deployments, RL-100, also that one bytedance paper or whatever about learning from the field 
+Oliver HSU deployments, RL-100, also that one bytedance paper or whatever about learning from the field, plus all the ERP/Fleet Managmeent System/MES/etc. 
 
 
 
