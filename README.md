@@ -18,7 +18,7 @@ A curated repository of frontier robotics content from Jacob Rintamaki
 - State of Robot Learning — December 2025 [Link](https://vedder.io/misc/state_of_robot_learning_dec_2025.html)
 - π*0.6: a VLA that Learns from Experience [Link](https://www.pi.website/blog/pistar06)
 - Emergence of Human to Robot Transfer in VLAs [Link](https://www.pi.website/research/human_to_robot)
-- Moravec's Paradox and the Robot Olympics [Link]((https://www.pi.website/blog/olympics)
+- Moravec's Paradox and the Robot Olympics [Link](https://www.pi.website/blog/olympics)
 - Training-Time Action Conditioning for Efficient Real-Time Chunking [Link](https://arxiv.org/abs/2512.05964)
 - GEN-0 / Embodied Foundation Models That Scale with Physical Interaction [Link](https://generalistai.com/blog/nov-04-2025-GEN-0)
 
