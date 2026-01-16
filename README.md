@@ -1,16 +1,17 @@
 # Frontier Robotics Reading List
 Jacob Rintamaki's curated repository of frontier robotics research, essays, and more. 
+
 This repository is meant to try to capture some of what I'm currently thinking about.
 
-I will release a more comprehensive and educational repository soon. (It will be linked here) 
+I will release a significantly more comprehensive, education-focused repository soon, which will be linked here.
 
 # What Does This Repository Have? 
 
 - [Markets and Supply Chain](#markets-and-supply-chain) 
 - [Locomanipulation](#locomanipulation)
+- [Dexterous Manipulation](#dexterous-manipulation)
 - [VLAs](#vlas)
 - [World Models](#world-models)
-- [Clever Tricks](#clever-tricks)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Real-World Deployments](#real-world-deployments)
 - [Thematic Writing](#thematic-writing)
@@ -23,8 +24,13 @@ I will release a more comprehensive and educational repository soon. (It will be
 ## Locomanipulation <a name="locomanipulation"></a>
 * **DoorMan:** Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer [Link](https://doorman-humanoid.github.io/) 
 * **TWIST2:** Scalable, Portable, and Holistic Humanoid Data Collection System [Link](https://yanjieze.com/TWIST2/) 
-* VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
-* LeCAR Lab at CMU [Link](https://lecar-lab.github.io/)
+* **VIRAL:** Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
+* **LeCAR Lab** at CMU [Link](https://lecar-lab.github.io/)
+
+## Dexterous Manipulation <a name="dexterous-manipulation"></a>  
+- **Shuran Song:** Stanford Lab [Link](https://shurans.github.io/)
+- **In-the-Wild** Compliant Manipulation with UMI-FT [Link](https://arxiv.org/html/2601.09988v1)
+- **Yuke Zhu:** UT Austin/NVIDIA GEAR lab [Link](https://yukezhu.me/)
 
 ## VLAs <a name="vlas"></a>
 - **VLM4VLA:** Revisiting Vision-Language Models in Vision-Language-Action Models [Link](https://cladernyjorn.github.io/VLM4VLA.github.io/)
@@ -42,18 +48,15 @@ I will release a more comprehensive and educational repository soon. (It will be
 - **Preference Learning** For Robotic World Model Policies [Link](https://x.com/JackMonas/status/2011142087484338333?s=20) 
 - **Test Time Compute** For Robotic World Model Policies [Link](https://x.com/itsdanielho/status/2011186214812975113?s=20)
 
-## Clever Techniques <a name="clever-tricks"></a>
-- 2025 BEHAVIOR Challenge Results [Link](https://behavior.stanford.edu/challenge/index.html)
-- SpeedAug [Link](https://arxiv.org/abs/2512.00062) 
-- SpeedTuning [Link](https://ieeexplore.ieee.org/document/11128753) 
-- In-the-Wild Compliant Manipulation with UMI-FT [Link](https://arxiv.org/html/2601.09988v1)
-
 ## Reinforcement Learning <a name="reinforcement-learning"></a>
-- RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning [Link](https://arxiv.org/abs/2510.14830)
-- HiL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [Link](https://hil-serl.github.io/)
-- Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning [Link](https://arxiv.org/abs/2512.16911)
+- **RL-100:** Performant Robotic Manipulation with Real-World Reinforcement Learning [Link](https://arxiv.org/abs/2510.14830)
+- **HiL-SERL:** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [Link](https://hil-serl.github.io/)
+- **Posterior Behavioral Cloning:** Pretraining BC Policies for Efficient RL Finetuning [Link](https://arxiv.org/abs/2512.16911)
+- **SpeedTuning:** Speeding Up Policy Execution with Lightweight Reinforcement Learning [Link](https://ieeexplore.ieee.org/document/11128753)
+- **SpeedAug:** Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning [Link](https://arxiv.org/abs/2512.00062) 
 
 ## Real-World Deployments <a name="real-world-deployments"></a>
+- **2025 BEHAVIOR** Challenge Results [Link](https://behavior.stanford.edu/challenge/index.html)
 - **Learning on the Fly:** Rapid Policy Adaptation via Differentiable Simulation [Link](https://rpg.ifi.uzh.ch/lotf/)
 - **Robotics** Levels Of Autonomy [Link](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
 - **Auki** Labs [Link](https://x.com/AukiLabs)
@@ -63,12 +66,12 @@ I will release a more comprehensive and educational repository soon. (It will be
 - **Dyna:** Open-World Dexterity and Live Demos around the World [Link](https://www.dyna.co/dyna-2/research)
 
 ## Thematic Writing <a name="thematic-writing"></a>
-- The case for an omni-bodied robot brain [Link](https://www.skild.ai/blogs/omni-bodied)
-- Eric Jang: All Roads Lead to Robotics [Link](https://evjang.com/2024/03/03/all-roads-robots.html)
-- Sergey Levine: Sporks of AGI: Why the Real Thing is better than the Next Best Thing [Link](https://sergeylevine.substack.com/p/sporks-of-agi)
-- A Love Letter to CVPR [Link](https://vedder.io/misc/lover_letter_to_cvpr.html)
-- The Final Offshoring [Link](https://finaloffshoring.com/) 
-- Many Small Steps for Robots, One Giant Leap for Mankind [Link](https://www.notboring.co/p/robot-steps)
+- **The case** for an omni-bodied robot brain [Link](https://www.skild.ai/blogs/omni-bodied)
+- **Eric Jang:** All Roads Lead to Robotics [Link](https://evjang.com/2024/03/03/all-roads-robots.html)
+- **Sergey Levine:** Sporks of AGI: Why the Real Thing is better than the Next Best Thing [Link](https://sergeylevine.substack.com/p/sporks-of-agi)
+- **A Love Letter** to CVPR [Link](https://vedder.io/misc/lover_letter_to_cvpr.html)
+- **The Final** Offshoring [Link](https://finaloffshoring.com/) 
+- **Many Small Steps** for Robots, One Giant Leap for Mankind [Link](https://www.notboring.co/p/robot-steps)
 
 
 ## Citation <a name="citation"></a>
