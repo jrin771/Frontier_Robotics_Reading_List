@@ -7,7 +7,7 @@ A curated repository of frontier robotics content from Jacob Rintamaki
 
 ## Locomanipulation
 * Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation [Link](https://rpg.ifi.uzh.ch/lotf/)
-* DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer[Link](https://doorman-humanoid.github.io/) 
+* DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer [Link](https://doorman-humanoid.github.io/) 
 * TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [Link](https://yanjieze.com/TWIST2/) 
 * VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
 * LeCAR Lab at CMU [Link](https://lecar-lab.github.io/)
